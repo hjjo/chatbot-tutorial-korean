@@ -22,7 +22,7 @@ const csv = require('./csv');
 const conversation = require('./message');
 const kakao_keyboard = require('./kakao/keyboard');
 const kakao_message = require('./kakao/message');
-// const telegram_bot = require('./telegram/message');
+const telegram_bot = require('./telegram/message');
 // const telegram_scheduler = require('./telegram/cron');
 
 module.exports = {
